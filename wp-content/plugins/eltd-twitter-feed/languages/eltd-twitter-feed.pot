@@ -1,0 +1,101 @@
+# Copyright (C) 2016 Elated Twitter Feed
+# This file is distributed under the same license as the Elated Twitter Feed package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated Twitter Feed 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/eltd-twitter-feed\n"
+"POT-Creation-Date: 2016-11-18 09:45:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/eltd-twitter-api.php:232 lib/eltd-twitter-api.php:299
+#: lib/eltd-twitter-api.php:363
+msgid "Internal WP error"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:248
+msgid "Redirect URL couldn\\t not be generated"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:255
+msgid "Couldn't connect with Twitter API"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:311
+msgid "Access token obtained"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:316
+msgid "Authorize token and it's secret were not obtainer"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:373
+msgid "Couldn't connect with Twitter"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:378
+msgid "It seams like you haven\\t connected with your Twitter account"
+msgstr ""
+
+#: lib/eltd-twitter-api.php:388
+msgid "Couldn't retreive content from database"
+msgstr ""
+
+#: lib/eltd-twitter-helper.php:23
+msgid "ago"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:10
+msgid "Elated Twitter Widget"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:11
+msgid "Display tweets"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:22
+msgid "Title"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:27
+msgid "User ID"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:32
+msgid "Number of tweets"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:37
+msgid "Show tweet time"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:39
+msgid "No"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:40
+msgid "Yes"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:46
+msgid "Tweets Cache Time"
+msgstr ""
+
+#: widgets/eltd-twitter-widget.php:149
+msgid "It seams that you haven't connected with your Twitter account"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elated Twitter Feed"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds Twitter feed functionality to our theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elated Themes"
+msgstr ""
