@@ -429,7 +429,7 @@ if(!function_exists('kendall_elated_title_area_height')) {
         }
 
         //increase title height for the height of header transparent parts
-        $title_height_and_padding['title_height'] = 'height:'.($title_height + $header_height_padding).'px;';
+        $title_height_and_padding['title_height'] = 'height:'.(intval($title_height) + intval($header_height_padding)).'px;';
         $title_height_and_padding['title_holder_height'] = $title_holder_height;
         $title_height_and_padding['title_subtitle_holder_padding'] = $title_subtitle_holder_padding;
 
