@@ -10,9 +10,48 @@
 	<?php do_action('kendall_elated_header_meta'); ?>
 
 	<?php wp_head(); ?>
+	<!-- Global site tag (gtag.js) - Google Ads: 801000103 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-801000103"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-801000103');
+</script>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RG7H3N');</script>
+<!-- End Google Tag Manager -->
+<!-- Event snippet for Chat web conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-801000103/AUONCMG3o5UBEKeV-f0C',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
+	<meta name="facebook-domain-verification" content="tn32fdw132nnhvoabx2ff7qt8f7u1j" />
 </head>
 
 <body <?php body_class();?>>
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RG7H3N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <?php kendall_elated_get_side_area(); ?>
 
 

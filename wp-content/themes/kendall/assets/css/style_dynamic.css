@@ -1,0 +1,66 @@
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_design_styles function */
+.eltd-preload-background { background-image: url(https://salontukawa.com/wp-content/themes/kendall/assets/img/preload_pattern.png) !important;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_design_styles function */
+body { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_design_styles function */
+.eltd-boxed .eltd-wrapper { background-image: url(http://kendall.elated-themes.com/wp-content/uploads/2016/10/home6-grid-pattern.jpg);background-position: 0px 0px;background-repeat: repeat;background-attachment: fixed;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h1_styles function */
+h1 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h2_styles function */
+h2 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h3_styles function */
+h3 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h4_styles function */
+h4 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h5_styles function */
+h5 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_h6_styles function */
+h6 { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_text_styles function */
+p { font-family: Arial;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/assets/custom-styles/general-custom-styles.php kendall_elated_smooth_page_transition_styles function */
+.eltd-smooth-transition-loader { background-color: #ffffff;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/contactform7/custom-styles/contact-form.php kendall_elated_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 255, 255, 1);margin-bottom: 5px;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/contactform7/custom-styles/contact-form.php kendall_elated_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;height: 48px;font-family: Open Sans;font-style: normal;font-weight: 800;text-transform: uppercase;letter-spacing: 2px;background-color: rgba(255, 255, 255, 0);border-color: rgba(255, 255, 255, 1);padding-left: 40px;padding-right: 40px;margin: 10px 0 0 0px;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/contactform7/custom-styles/contact-form.php kendall_elated_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ebebeb;background-color: rgba(68, 68, 68, 1);border-color: rgba(68, 68, 68, 1);}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_slide_from_right_type_style function */
+.eltd-side-menu-slide-from-right .eltd-side-menu { right: -30%;width: 30%;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_icon_color_styles function */
+a.eltd-side-menu-button-opener { font-size: 26px;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_alignment function */
+.eltd-side-menu-slide-from-right .eltd-side-menu, .eltd-side-menu-slide-with-content .eltd-side-menu, .eltd-side-area-uncovered-from-content .eltd-side-menu { text-align: center;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_styles function */
+.eltd-side-menu, .eltd-side-area-uncovered-from-content .eltd-side-menu, .eltd-side-menu-slide-from-right .eltd-side-menu { background-color: #333333;padding-right: 70px;padding-left: 70px;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_styles function */
+.eltd-side-menu a.eltd-close-side-menu { height: 26px;width: 26px;line-height: 26px;padding: 0;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_styles function */
+.eltd-side-menu a.eltd-close-side-menu span, .eltd-side-menu a.eltd-close-side-menu i { font-size: 26px;height: 26px;width: 26px;line-height: 26px;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/sidearea/custom-styles/sidearea.php kendall_elated_side_area_text_styles function */
+.eltd-side-menu .widget, .eltd-side-menu .widget.widget_search form, .eltd-side-menu .widget.widget_search form input[type="text"], .eltd-side-menu .widget.widget_search form input[type="submit"], .eltd-side-menu .widget h6, .eltd-side-menu .widget h6 a, .eltd-side-menu .widget p, .eltd-side-menu .widget li a, .eltd-side-menu .widget.widget_rss li a.rsswidget, .eltd-side-menu #wp-calendar caption,.eltd-side-menu .widget li, .eltd-side-menu h3, .eltd-side-menu .widget.widget_archive select, .eltd-side-menu .widget.widget_categories select, .eltd-side-menu .widget.widget_text select, .eltd-side-menu .widget.widget_search form input[type="submit"], .eltd-side-menu #wp-calendar th, .eltd-side-menu #wp-calendar td, .eltd-side-menu .eltd_social_icon_holder i.simple_social { color: #ffffff;}
+
+/* generated in /home/salontukawa.com/public_html/wp-content/themes/kendall/framework/modules/title/custom-styles/title.php kendall_elated_title_area_typography_style function */
+.eltd-title .eltd-title-holder h1 { color: #ffffff;}
+
