@@ -1,9 +1,0 @@
-1.1
-- Added WooCommerce 2.6.9 compatibility
-- Added Add to Cart button animation on click
-- Added View Cart button appearing effect
-- Updated Visual Composer to 5.0.1
-- Updated Revolution Slider to 5.3.1.5
-- Updated Elated Core to 1.0.1
-- Fixed bug with shop dropdown opening
-- Fixed issue with Google Map API key field 
